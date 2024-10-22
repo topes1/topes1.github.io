@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 Oct 2024, 19:16:14
+    Author     : Andre
+*/
+
+body{
+    background: rgba(102, 204, 255, .75);
+}
+.top_bar{
+    
+}
+
+
+h1{
+    font-family: sans-serif;
+    font-style: italic;
+}
